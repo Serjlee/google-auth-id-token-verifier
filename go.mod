@@ -1,4 +1,4 @@
-module github.com/serjlee/goodle-id-verifier
+module github.com/serjlee/google-id-verifier
 
 go 1.13
 
